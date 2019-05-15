@@ -1,0 +1,6 @@
+[submodule "BangMath"]
+	path = BangMath
+	url = ./BangMath/
+[submodule "BangCore"]
+	path = BangCore
+	url = ./BangCore/
